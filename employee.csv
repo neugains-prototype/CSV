@@ -1,0 +1,8 @@
+BillableTime,domain,sparse,Id,SyncToken,GivenName,FamilyName,DisplayName,PrintOnCheckName,Active,MetaData_CreateTime,MetaData_LastUpdatedTime,HiredDate,PrimaryPhone_FreeFormNumber
+FALSE,QBO,FALSE,55,0,Emily,Platt,Emily Platt,Emily Platt,TRUE,2021-12-04T11:21:48-08:00,2021-12-04T11:21:48-08:00,,
+FALSE,QBO,FALSE,54,1,John,Johnson,John Johnson,John Johnson,TRUE,2021-12-04T11:21:28-08:00,2021-12-04T11:46:26-08:00,05-11-2021,(540) 555-9645
+FALSE,QBO,FALSE,12,1,Isabelle,Eclair,Isabelle Eclair,Isabelle Eclair,TRUE,2021-12-20T07:01:28-08:00,2021-12-20T07:01:28-08:00,,
+FALSE,QBO,FALSE,13,1,Pierre,Banette,Pierre Banette,Pierre Banette,TRUE,2021-12-20T07:01:47-08:00,2021-12-20T07:01:47-08:00,,
+FALSE,QBO,FALSE,67,0,Brad,Petterson,Brad  Petterson,Brad  Petterson,TRUE,2021-12-03T10:15:53-08:00,2021-12-03T10:15:53-08:00,,
+FALSE,QBO,FALSE,69,0,Kayur,Smith,Kayur  Smith,Kayur  Smith,TRUE,2021-12-03T10:16:45-08:00,2021-12-03T10:16:45-08:00,,
+FALSE,QBO,FALSE,68,0,Meagan,Isaacs,Meagan Isaacs,Meagan Isaacs,TRUE,2021-12-03T10:16:18-08:00,2021-12-03T10:16:18-08:00,,
